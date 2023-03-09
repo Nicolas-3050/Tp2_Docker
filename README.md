@@ -1,8 +1,9 @@
 # TP2 Docker 
 
 ## Author
-Nicolas Seillé,
-Enzo Pistre 
+
+- [@Enzo Pistre](https://github.com/DaoGod)
+- [@Nicolas Seillé](https://github.com/Nicolas-3050)
 
 ## 2. Début du TP
 Compléter le Dockerfile afin de builder correctement l’application contenu dans src/
